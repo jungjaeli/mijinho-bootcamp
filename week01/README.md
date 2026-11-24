@@ -6,8 +6,8 @@
 ## 진행 체크리스트
 
 ### 0. 5단 분석
-- [ ] JavaScript 5단 분석
-- [ ] Python 또는 Java 비교표
+- [x] JavaScript 5단 분석
+- [x] Python 또는 Java 비교표
 - [ ] Part 2·3 기술 2개 5단 분석
 
 ### Part 1. JavaScript 기초
